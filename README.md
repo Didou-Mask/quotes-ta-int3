@@ -10,4 +10,4 @@ Github Project
 ## Fork urls
 - `contributor-1`: [quotes-SELVAKUMAR-Int3](https://github.com/ROCKING-HARISH/quotes-sha-int3)
 - `contributor-2`: [quotes-BARANGER-Int3](url-2)
-- `contributor-3`: [quotes-GAUTIER-Int3](url-3)
+- `contributor-3`: [quotes-GAUTIER-Int3](https://github.com/ManonKayak/quotes-gautier-int3)
